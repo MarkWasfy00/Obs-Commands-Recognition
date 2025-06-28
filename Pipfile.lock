@@ -1,0 +1,74 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "897482e110c5cdeba598a3910dd87294613ce77dd6ebd0299b168b25fcc3e187"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.12"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "obsws-python": {
+            "hashes": [
+                "sha256:acda31852ad9d7165de915b0603c13f6df527d3f61619970bf5fb562e300bc85",
+                "sha256:b5cdaad30fbe1f6d4787b6530048b9882f070c3ee7830abb6dad4a47f84d7fa0"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.9'",
+            "version": "==1.7.2"
+        },
+        "pyaudio": {
+            "hashes": [
+                "sha256:009f357ee5aa6bc8eb19d69921cd30e98c42cddd34210615d592a71d09c4bd57",
+                "sha256:126065b5e82a1c03ba16e7c0404d8f54e17368836e7d2d92427358ad44fefe61",
+                "sha256:12f2f1ba04e06ff95d80700a78967897a489c05e093e3bffa05a84ed9c0a7fa3",
+                "sha256:2a166fc88d435a2779810dd2678354adc33499e9d4d7f937f28b20cc55893e83",
+                "sha256:2dac0d6d675fe7e181ba88f2de88d321059b69abd52e3f4934a8878e03a7a074",
+                "sha256:506b32a595f8693811682ab4b127602d404df7dfc453b499c91a80d0f7bad289",
+                "sha256:5fce4bcdd2e0e8c063d835dbe2860dac46437506af509353c7f8114d4bacbd5b",
+                "sha256:692d8c1446f52ed2662120bcd9ddcb5aa2b71f38bda31e58b19fb4672fffba69",
+                "sha256:78dfff3879b4994d1f4fc6485646a57755c6ee3c19647a491f790a0895bd2f87",
+                "sha256:858caf35b05c26d8fc62f1efa2e8f53d5fa1a01164842bd622f70ddc41f55000",
+                "sha256:95328285b4dab57ea8c52a4a996cb52be6d629353315be5bfda403d15932a497",
+                "sha256:bbeb01d36a2f472ae5ee5e1451cacc42112986abe622f735bb870a5db77cf903",
+                "sha256:f745109634a7c19fa4d6b8b7d6967c3123d988c9ade0cd35d4295ee1acdb53e9"
+            ],
+            "index": "pypi",
+            "version": "==0.2.14"
+        },
+        "speechrecognition": {
+            "hashes": [
+                "sha256:1859fbb09ae23fa759200f5b0677307f1fb16e2c5c798f4259fcc41dd5399fe6",
+                "sha256:bdd2000a9897832b33095e33adfa48580787255706092e1346d1c6c36adae0a4"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.9'",
+            "version": "==3.14.3"
+        },
+        "typing-extensions": {
+            "hashes": [
+                "sha256:8676b788e32f02ab42d9e7c61324048ae4c6d844a399eebace3d4979d75ceef4",
+                "sha256:a1514509136dd0b477638fc68d6a91497af5076466ad0fa6c338e44e359944af"
+            ],
+            "markers": "python_version >= '3.9'",
+            "version": "==4.14.0"
+        },
+        "websocket-client": {
+            "hashes": [
+                "sha256:17b44cc997f5c498e809b22cdf2d9c7a9e71c02c8cc2b6c56e7c2d1239bfa526",
+                "sha256:3239df9f44da632f96012472805d40a23281a991027ce11d2f45a6f24ac4c3da"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==1.8.0"
+        }
+    },
+    "develop": {}
+}
